@@ -1,0 +1,181 @@
+D:\C#\Grocery_App\bin\Debug\Grocery_App.exe.config
+D:\C#\Grocery_App\bin\Debug\Grocery_App.exe
+D:\C#\Grocery_App\bin\Debug\Grocery_App.pdb
+D:\C#\Grocery_App\obj\Debug\Grocery_App.csproj.AssemblyReference.cache
+D:\C#\Grocery_App\obj\Debug\Grocery_App.csproj.SuggestedBindingRedirects.cache
+D:\C#\Grocery_App\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\Grocery_App\obj\Debug\MainWindow.g.cs
+D:\C#\Grocery_App\obj\Debug\App.g.cs
+D:\C#\Grocery_App\obj\Debug\Grocery_App_MarkupCompile.cache
+D:\C#\Grocery_App\obj\Debug\Grocery_App_MarkupCompile.lref
+D:\C#\Grocery_App\obj\Debug\App.baml
+D:\C#\Grocery_App\obj\Debug\MainWindow.baml
+D:\C#\Grocery_App\obj\Debug\Grocery_App.g.resources
+D:\C#\Grocery_App\obj\Debug\Grocery_App.Properties.Resources.resources
+D:\C#\Grocery_App\obj\Debug\Grocery_App.csproj.GenerateResource.cache
+D:\C#\Grocery_App\obj\Debug\Grocery_App.csproj.CoreCompileInputs.cache
+D:\C#\Grocery_App\obj\Debug\Grocery_App.exe
+D:\C#\Grocery_App\obj\Debug\Grocery_App.pdb
+D:\C#\Grocery_App\obj\Debug\Controls\Danh_sach_mat_hang.g.cs
+D:\C#\Grocery_App\obj\Debug\Controls\Danh_sach_mat_hang.baml
+D:\C#\Grocery_App\obj\Debug\Template\PurpleBtn.baml
+D:\C#\Grocery_App\obj\Debug\Controls\PopupWindow.g.cs
+D:\C#\Grocery_App\obj\Debug\Controls\PopupWindow.baml
+D:\C#\Grocery_App-Test\bin\Debug\Grocery_App.exe.config
+D:\C#\Grocery_App-Test\bin\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test\bin\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.csproj.AssemblyReference.cache
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.csproj.SuggestedBindingRedirects.cache
+D:\C#\Grocery_App-Test\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\Grocery_App-Test\obj\Debug\Template\PurpleBtn.baml
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Danh_sach_mat_hang.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\Controls\PopupWindow.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\MainWindow.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\App.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App_MarkupCompile.cache
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App_MarkupCompile.lref
+D:\C#\Grocery_App-Test\obj\Debug\App.baml
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Danh_sach_mat_hang.baml
+D:\C#\Grocery_App-Test\obj\Debug\Controls\PopupWindow.baml
+D:\C#\Grocery_App-Test\obj\Debug\MainWindow.baml
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.g.resources
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.Properties.Resources.resources
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.csproj.GenerateResource.cache
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.csproj.CoreCompileInputs.cache
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test\obj\Debug\LoginWindow.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\LoginWindow.baml
+D:\C#\Grocery_App-Test\obj\Debug\Template\PurpleBtn2.baml
+D:\C#\Grocery_App-Test\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Grocery_App-Test\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Grocery_App-Test\obj\Debug\Grocery_App.csproj.CopyComplete
+D:\C#\Grocery_App-Test\obj\Debug\Controls\History.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\Controls\History.baml
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Them_hoa_don.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Them_hoa_don.baml
+D:\C#\Grocery_App-Test\obj\Debug\Template\PurpleBtn3.baml
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Popup_danh_sach.g.cs
+D:\C#\Grocery_App-Test\obj\Debug\Controls\Popup_danh_sach.baml
+D:\C#\Grocery_App-Test 25_1\bin\Debug\Grocery_App.exe.config
+D:\C#\Grocery_App-Test 25_1\bin\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 25_1\bin\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 25_1\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Grocery_App-Test 25_1\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.csproj.AssemblyReference.cache
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.csproj.SuggestedBindingRedirects.cache
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Template\PurpleBtn.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Template\PurpleBtn3.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Template\PurpleBtn2.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Danh_sach_mat_hang.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\History.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\PopupWindow.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Popup_danh_sach.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Them_hoa_don.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\LoginWindow.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\MainWindow.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\App.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App_MarkupCompile.cache
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App_MarkupCompile.lref
+D:\C#\Grocery_App-Test 25_1\obj\Debug\App.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Danh_sach_mat_hang.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\History.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\PopupWindow.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Popup_danh_sach.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Them_hoa_don.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\LoginWindow.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\MainWindow.baml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.g.resources
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.Properties.Resources.resources
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.csproj.GenerateResource.cache
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.csproj.CoreCompileInputs.cache
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.csproj.CopyComplete
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 25_1\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Grocery_App-Test 25_1\bin\Debug\itextsharp.dll
+D:\C#\Grocery_App-Test 25_1\bin\Debug\itextsharp.xml
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Thong_ke.g.cs
+D:\C#\Grocery_App-Test 25_1\obj\Debug\Controls\Thong_ke.baml
+D:\C#\Grocery_App-Test 27_1\bin\Debug\Grocery_App.exe.config
+D:\C#\Grocery_App-Test 27_1\bin\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 27_1\bin\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 27_1\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Grocery_App-Test 27_1\bin\Debug\itextsharp.dll
+D:\C#\Grocery_App-Test 27_1\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Grocery_App-Test 27_1\bin\Debug\itextsharp.xml
+D:\C#\Grocery_App-Test 27_1\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.csproj.AssemblyReference.cache
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.csproj.SuggestedBindingRedirects.cache
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Template\PurpleBtn.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Template\PurpleBtn3.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Template\PurpleBtn2.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Danh_sach_mat_hang.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\History.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\PopupWindow.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Popup_danh_sach.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Them_hoa_don.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Thong_ke.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\LoginWindow.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\MainWindow.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\App.g.cs
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App_MarkupCompile.cache
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App_MarkupCompile.lref
+D:\C#\Grocery_App-Test 27_1\obj\Debug\App.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Danh_sach_mat_hang.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\History.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\PopupWindow.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Popup_danh_sach.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Them_hoa_don.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Controls\Thong_ke.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\LoginWindow.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\MainWindow.baml
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.g.resources
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.Properties.Resources.resources
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.csproj.GenerateResource.cache
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.csproj.CoreCompileInputs.cache
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.csproj.CopyComplete
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 27_1\obj\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\Grocery_App.exe.config
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\itextsharp.dll
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\itextsharp.xml
+D:\C#\Grocery_App-Test 27_1_co_pdf\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.csproj.AssemblyReference.cache
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Template\PurpleBtn.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Template\PurpleBtn3.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Template\PurpleBtn2.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Danh_sach_mat_hang.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\History.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\PopupWindow.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Popup_danh_sach.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Them_hoa_don.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Thong_ke.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\LoginWindow.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\MainWindow.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\App.g.cs
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App_MarkupCompile.cache
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App_MarkupCompile.lref
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\App.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Danh_sach_mat_hang.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\History.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\PopupWindow.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Popup_danh_sach.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Them_hoa_don.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Controls\Thong_ke.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\LoginWindow.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\MainWindow.baml
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.g.resources
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.Properties.Resources.resources
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.csproj.GenerateResource.cache
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.csproj.CoreCompileInputs.cache
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.exe
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_App.pdb
+D:\C#\Grocery_App-Test 27_1_co_pdf\obj\Debug\Grocery_.E85683A6.Up2Date

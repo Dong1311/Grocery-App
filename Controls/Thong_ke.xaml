@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Grocery_App.Controls.Thong_ke"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Grocery_App.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="1000" Background="White">
+    <Border Padding="20" CornerRadius="20">
+        <Grid>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Từ ngày" FontSize="16" VerticalAlignment="Center" Margin="50,0,0,0"/>
+                    <DatePicker x:Name="StartDatePicker" FontSize="12" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    <TextBlock Text="Đến ngày" FontSize="16" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    <DatePicker x:Name="EndDatePicker" FontSize="12" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                    <Button Content="Lọc" Click="Filter_Click" Style="{StaticResource PurpleBtn3}" VerticalAlignment="Center" Margin="50,0,0,0"/>
+                    <Button Content="Hiển thị Tất Cả" Click="ShowAll_Click" Style="{StaticResource PurpleBtn3}" 
+                            VerticalAlignment="Center" Margin="100,0,0,0" Width="150"/>
+                </StackPanel>
+
+                <DataGrid x:Name="Thong_ke_Grid" FontSize="18"
+                      BorderThickness="0" AlternatingRowBackground="#F5F2FF" GridLinesVisibility="None"
+                      IsReadOnly="True"  AutoGenerateColumns="False">
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="Cursor" Value="Hand"/>
+                            <Setter Property="FontSize" Value="18"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Khách hàng" Binding="{Binding TenKhachHang}" Width="250"/>
+                        <DataGridTextColumn Header="Thời gian" Binding="{Binding NgayGio, StringFormat=\{0:dd/MM/yyyy HH:mm:ss\}}"  Width="250"/>
+                        <DataGridTextColumn Header="Thanh toán" Binding="{Binding KhachCanTra}" Width="190"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="DoanhThuTextBlock" FontSize="18" Margin="5" />
+                </StackPanel>
+                
+            </StackPanel>
+        </Grid>
+    </Border>
+    
+</UserControl>

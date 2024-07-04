@@ -1,0 +1,92 @@
+[
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 27000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 27000.0,
+    "KhachThanhToan": 90000.0,
+    "TraLai": 63000.0,
+    "NgayGio": "2024-01-27T01:59:58.9262961+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 25000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 25000.0,
+    "KhachThanhToan": 80000.0,
+    "TraLai": 55000.0,
+    "NgayGio": "2024-01-27T02:03:55.3810881+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 52000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 52000.0,
+    "KhachThanhToan": 80000.0,
+    "TraLai": 28000.0,
+    "NgayGio": "2024-01-27T02:05:26.8125613+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 52000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 52000.0,
+    "KhachThanhToan": 80000.0,
+    "TraLai": 28000.0,
+    "NgayGio": "2024-01-25T02:05:26.8125613+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 21000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 21000.0,
+    "KhachThanhToan": 70000.0,
+    "TraLai": 49000.0,
+    "NgayGio": "2024-01-27T02:42:30.7465586+07:00"
+  },
+  {
+    "TenKhachHang": "Đỗ Văn An",
+    "TongTienHang": 46000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 46000.0,
+    "KhachThanhToan": 50000.0,
+    "TraLai": 4000.0,
+    "NgayGio": "2024-01-27T02:49:02.6636788+07:00"
+  },
+  {
+    "TenKhachHang": "Nguyễn Quốc Trung",
+    "TongTienHang": 46000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 46000.0,
+    "KhachThanhToan": 50000.0,
+    "TraLai": 4000.0,
+    "NgayGio": "2024-01-22T02:49:02.6636788+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 75000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 75000.0,
+    "KhachThanhToan": 100000.0,
+    "TraLai": 25000.0,
+    "NgayGio": "2024-01-27T03:25:09.4913329+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 44000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 44000.0,
+    "KhachThanhToan": 60000.0,
+    "TraLai": 16000.0,
+    "NgayGio": "2024-01-27T03:42:30.9578048+07:00"
+  },
+  {
+    "TenKhachHang": "Khách lẻ",
+    "TongTienHang": 34000.0,
+    "GiamGia": 0.0,
+    "KhachCanTra": 34000.0,
+    "KhachThanhToan": 40000.0,
+    "TraLai": 6000.0,
+    "NgayGio": "2024-01-27T03:43:44.7957468+07:00"
+  }
+]

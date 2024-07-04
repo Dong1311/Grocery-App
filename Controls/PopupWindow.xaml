@@ -1,0 +1,86 @@
+﻿<Window x:Class="Grocery_App.Controls.PopupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grocery_App.Controls"
+        mc:Ignorable="d"
+        Title="PopupWindow" Height="550" Width="800">
+    <Grid>
+        <Border Background="#EBE6FF" CornerRadius="20" Margin="0,0,0,0">
+            <StackPanel HorizontalAlignment="Left" Width="800" >
+                <TextBlock  Text="Thêm mặt hàng" Margin="75,38,0,0" FontSize="35" FontWeight="Bold" FontFamily="Montserrat" Width="384" HorizontalAlignment="Left"/>
+                <Border Background="Black" Height="1" Width="653" Margin="75,22,0,0" HorizontalAlignment="Left"/>
+                <StackPanel Orientation="Horizontal" Margin="78,30,0,0">
+                    <TextBlock Text="Mã mặt hàng" FontSize="24" Width="204" />
+                    <StackPanel Width="300" Margin="100,0,0,0">
+                        <TextBox x:Name="NewNameKT" BorderBrush="Transparent" Background="Transparent"  Width="300" FontSize="24"
+                                 Text="{Binding MaHang, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                        </TextBox>
+                        <Rectangle Fill="Black" Height="1" Width="653"/>
+
+                    </StackPanel>
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="78,18,0,0">
+                    <TextBlock Text="Tên mặt hàng" FontSize="24" FontFamily="Montserrat" Width="204" />
+                    <StackPanel Width="300" Margin="100,0,0,0">
+                        <TextBox x:Name="TenMatHang" BorderBrush="Transparent" Background="Transparent"  Width="300" FontSize="24"
+                                 Text="{Binding TenMatHang, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                        </TextBox>
+                        <Rectangle Fill="Black" Height="1" Width="653"/>
+                    </StackPanel>
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="78,18,0,0">
+                    <TextBlock Text="Giá" FontSize="24" FontFamily="Montserrat" Width="204" />
+                    <StackPanel Width="300" Margin="100,0,0,0">
+                        <TextBox x:Name="Gia" BorderBrush="Transparent" Background="Transparent"  Width="300" FontSize="24"
+                                 Text="{Binding Gia, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                        </TextBox>
+                        <Rectangle Fill="Black" Height="1" Width="653"/>
+                    </StackPanel>
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="78,18,0,0">
+                    <TextBlock Text="Hạn sử dụng" FontSize="24" FontFamily="Montserrat" Width="234" />
+                    <DatePicker x:Name="HanSuDung" Margin="70,0,0,0" Width="324" SelectedDate="{Binding HanSuDung, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Foreground="#FF838282" FontSize="22" BorderBrush="Transparent" >
+                        <DatePicker.Resources>
+                            <Style TargetType="DatePickerTextBox">
+                                <Setter Property="Control.Template">
+                                    <Setter.Value>
+                                        <ControlTemplate>
+                                            <TextBox x:Name="PART_TextBox"
+             Text="{Binding SelectedDate, StringFormat=dd/MM/yyyy, RelativeSource={RelativeSource AncestorType={x:Type DatePicker}},Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+             Foreground="{TemplateBinding Foreground}"
+             BorderThickness="0"/>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DatePicker.Resources>
+                    </DatePicker>
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="78,18,0,0">
+                    <TextBlock FontSize="24" FontFamily="Montserrat" Width="204"  Text="Số lượng"/>
+                    <StackPanel Width="300" Margin="100,0,0,0">
+                        <TextBox x:Name="SoLuong" BorderBrush="Transparent" Background="Transparent"  Width="300" FontSize="24" 
+                                 Text="{Binding SoLuong, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"/>
+
+                        <Rectangle Fill="Black" Height="1" Width="653"/>
+
+                    </StackPanel>
+
+                </StackPanel>
+                <Button Style="{StaticResource PurpleBtn2}" Content="Thêm"
+                        Click="ThemButton_Click">
+                </Button>
+
+            </StackPanel>
+
+        </Border>
+    </Grid>
+</Window>
